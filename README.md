@@ -96,7 +96,7 @@ You can create new scenarios by implementing the first 4 functions above (`make_
 <br>
 - In the display mode we can also see who won in the terminal:
 <br>
-![ResultsOfwinning](ResultsText.gif)
+  ![Results](ResultsText.gif)
 <br>
 
 ## Paper citation
