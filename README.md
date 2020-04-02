@@ -83,25 +83,21 @@ You can create new scenarios by implementing the first 4 functions above (`make_
 ## Results:
 
 -1vs1 scenario:
-<p align="center">
-   ![1vs1](oneVSone.gif)  
-</p>
-
+<br>   
+![1vs1](oneVSone.gif)  
+<br>
 -3vs1 scenario (taggers using DDPG vs escapers using MADDPG):
-<p align="center">
+<br>
   ![3vs1](3vs1DDPG.gif)
-</p>
-
+<br>
 -3vs1 scenario (taggers using MADDPG vs escapers using DDPG): 
-<p align="center">
-  ![3vs1](3vs1MADDPG.gif)
-</p>
-
+<br>  
+![3vs1](3vs1MADDPG.gif)
+<br>
 - In the display mode we can also see who won in the terminal:
-<p align="center">
+<br>
 ![ResultsOfwinning](ResultsText.gif)
-</p>
-
+<br>
 
 ## Paper citation
 
