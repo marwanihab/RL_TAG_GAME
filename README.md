@@ -1,4 +1,4 @@
-#RL TAG GAME
+# RL TAG GAME
 A game of tag with 2 autonomous agents in a 2D environment. The game generation begins with a "tagger" agent whose goal is to tag the other agent, and a second "escaper" agent whose goal is to escape this tagger. The generation ends after either the tagger agent touches the escaper (in which case the tagger wins), or after a fixed number of timesteps elapsed (in which case the escaper wins). 
 The tagger and escaper do not ever swap roles; each agent retains his goal across generations.
 
