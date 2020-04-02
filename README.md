@@ -84,7 +84,7 @@ You can create new scenarios by implementing the first 4 functions above (`make_
 
 | 1vs1 scenario:                       |  3vs1 scenario (taggers using DDPG vs escapers using MADDPG):   |  3vs1 scenario (taggers using MADDPG vs escapers using DDPG): 
 :-------------------------:|:-------------------------:|:-------------------------: 
-    ![1vs1](https://github.com/marwanihab/RL_TAG_GAME/blob/master/1vs1.gif)      |    ![3vs1](https://github.com/marwanihab/RL_TAG_GAME/blob/master/3vs1DDPG.gif)  |   ![3vs1](https://github.com/marwanihab/RL_TAG_GAME/blob/master/3vs1MADDPG.gif)
+    ![1vs1](/1vs1.gif)      |    ![3vs1](/3vs1DDPG.gif)  |   ![3vs1](/3vs1MADDPG.gif)
 
 
 - In the display mode we can also see who won in the terminal:
