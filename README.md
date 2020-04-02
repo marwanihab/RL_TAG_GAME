@@ -80,10 +80,10 @@ You can create new scenarios by implementing the first 4 functions above (`make_
 | --- | --- | --- | --- |
 | `simple_tag.py` (Predator-prey) | N | Y | Predator-prey environment. Good agents (green) are faster and want to avoid being hit by adversaries (red). Adversaries are slower and want to hit good agents. Obstacles (large black circles) block the way. |
 
-##Results:
+## Results:
 
 | 1vs1 scenario:                       |  3vs1 scenario (taggers using DDPG vs escapers using MADDPG):   |  3vs1 scenario (taggers using MADDPG vs escapers using DDPG): 
-:-------------------------:|:-------------------------:|:-------------------------: 
+:-------------------------:|:-------------------------:|:-------------------------:|
     ![1vs1](oneVSone.gif)      |    ![3vs1](3vs1DDPG.gif)  |   ![3vs1](3vs1MADDPG.gif)
 
 
